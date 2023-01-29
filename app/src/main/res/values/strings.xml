@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">HelloWorld</string>
-    <string name="garvey_intro">Hello world! My name is Garvey. I like sandwiches.</string>
+    <string name="garvey_intro">Hello world! \nMy name is Garvey. \nI like sandwiches.</string>
     <string name="button_text">Say Hello!</string>
 </resources>
